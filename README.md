@@ -6,4 +6,5 @@ Rustdesk 自用版本
 
 3、界面如下：
 
-![Uploading image.png…]()
+<img width="391" height="505" alt="image" src="https://github.com/user-attachments/assets/67f731cb-8844-4ac6-8c16-dbb68815c3b9" />
+
